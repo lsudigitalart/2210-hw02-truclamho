@@ -239,9 +239,9 @@ function draw() {
 
     
     // Where's my mouse!?
-    fill(255);
-    text(mouseX, 10, 10);
-    text(mouseY, 10, 20);
+    // fill(255);
+    // text(mouseX, 10, 10);
+    // text(mouseY, 10, 20);
 
 
 }
